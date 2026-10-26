@@ -1,4 +1,4 @@
-# 🔐 Cryptarithmetic CSP Solver
+# Cryptarithmetic CSP Solver
 
 **AI Problem Solving – Problem 4**
 
@@ -6,7 +6,7 @@ An interactive web application that solves cryptarithmetic puzzles (e.g., `SEND 
 
 ---
 
-## 🧩 Problem Description
+## Problem Description
 
 In a cryptarithmetic puzzle, each letter represents a unique digit (0–9). The goal is to find a mapping from letters to digits such that the arithmetic equation holds true.
 
@@ -21,7 +21,7 @@ Each letter → unique digit, no leading zeros.
 
 ---
 
-## 🤖 Algorithm Used — CSP with Backtracking
+## Algorithm Used — CSP with Backtracking
 
 ### Variables
 - Each unique letter in the puzzle is a variable.
@@ -44,7 +44,7 @@ Each letter → unique digit, no leading zeros.
 
 ---
 
-## 📁 Folder Structure
+## Folder Structure
 
 ```
 cryptarithmetic_csp/
@@ -59,7 +59,7 @@ cryptarithmetic_csp/
 
 ---
 
-## ▶️ Execution Steps
+## Execution Steps
 
 ### Option 1: Open GUI directly (No server needed)
 ```bash
@@ -89,7 +89,7 @@ python csp_solver.py
 
 ---
 
-## 📊 Sample Outputs
+##  Sample Outputs
 
 ### SEND + MORE = MONEY
 ```
@@ -129,7 +129,7 @@ Time: 0.0031s | Nodes explored: 412
 
 ---
 
-## 💡 Supported Puzzle Formats
+## Supported Puzzle Formats
 
 | Format | Example |
 |--------|---------|
