@@ -140,7 +140,7 @@ Time: 0.0031s | Nodes explored: 412
 
 ---
 
-## 🛠 Requirements
+## Requirements
 
 - Python 3.8+
 - Flask (only for backend mode): `pip install flask`
@@ -148,13 +148,4 @@ Time: 0.0031s | Nodes explored: 412
 
 ---
 
-## 🔗 Interactive Website
 
-[Open the Solver →](static/index.html) *(local)* or deploy to GitHub Pages / any static host.
-
----
-
-## 📝 License
-MIT
-Descriptions
-Instructions
